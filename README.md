@@ -24,7 +24,7 @@ Há duas pastas uma para o desafio em [Pyspark](https://spark.apache.org/docs/la
 - pip install boto3
 
 Após realizar o download da sua secret key e da sua access key
-é neessário configurar ambas keys pelo comando 
+é necessário configurar ambas keys pelo comando 
 ```aws configure```
 passar as keys e location (o restante pode ser default)
 
